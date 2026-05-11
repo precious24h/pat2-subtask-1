@@ -1,4 +1,4 @@
-# pat2-subtask-1
+Pat2-subtask-1
 morse code
 # PAT 2 Subtask 1: Morse Code Research
 
