@@ -5,12 +5,12 @@ morse code
 ## 1. Brief Overview of Morse Code
 Morse code is a method of encoding text characters into sequences of short and long signals called dots (.) and dashes (-). It is used to transmit messages over telegraph, radio, and light signals. Each letter, number, and punctuation mark has a unique pattern of dots and dashes.
 
-**Example:**  
+**Example:
 `A` = `.-`  
 `SOS` = `... --- ...`
 
 ## 2. Historical Context
-Morse code was developed in the 1830s and 1840s by Samuel Morse and Alfred Vail for use with the electrical telegraph. Before Morse code, long-distance communication was slow and limited to physical mail. 
+Morse code was developed in the 1830s and 1840s by Samuel Morse and Alfred Vail for use with the electrical telegraph. Before Morse code, long-distance communication was slow and limited to physical mail.  
 
 The system became widely adopted because it allowed operators to send messages quickly over long distances using electrical pulses. It was crucial for maritime communication, military operations, and early aviation. In 1999, the U.S. stopped using Morse code for maritime distress calls, but it is still used by amateur radio operators and in some emergency signaling.
 
