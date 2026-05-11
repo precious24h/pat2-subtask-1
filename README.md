@@ -24,21 +24,21 @@ Morse code works by assigning each character a specific sequence of dots and das
 Translators convert English text to Morse by replacing each character with its corresponding pattern. In C++, this is commonly done using an array where index 0 = A, index 1 = B, etc.
 
 ### A-Z Morse Code Table
-| Letter | Code | Letter | Code |
-| --- | --- | --- | --- |
-| A | .- | N | -. |
-| B | -... | O | --- |
-| C | -.-. | P | .--. |
-| D | -.. | Q | --.- |
-| E | . | R | .-. |
-| F | ..-. | S | ... |
-| G | --. | T | - |
-| H | .... | U | ..- |
-| I | .. | V | ...- |
-| J | .--- | W | .-- |
-| K | -.- | X | -..- |
-| L | .-.. | Y | -.-- |
-| M | -- | Z | --.. |
+| Letter  Code  Letter  Code |
+| --- | ---  --- --- 
+| A | .-    N -. 
+| B | -...  O  --- 
+| C | -.-.  P  .--. 
+| D | -..   Q  --.- 
+| E | .     R  .-. 
+| F | ..-.  S ... 
+| G | --.   T  - 
+| H | ....  U ..- 
+| I | ..    V  ...- 
+| J | .---  W  .-- 
+| K | -.-   X -..- 
+| L | .-..  Y  -.-- 
+| M | --    Z --.. 
 
 
 ## 4. References
